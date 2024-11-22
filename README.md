@@ -21,7 +21,7 @@ The sources of the material were taken from the following platforms:
 - [Unsplash](https://unsplash.com)
 - [Stock Photos](https://www.shutterstock.com)
 
-And they are maintained by the following person(s) and a group of [awesome contributors](https://github.com/dracula/marp/graphs/contributors).
+And they are maintained by the following person(s) and a group of [awesome contributors](https://github.com/dracula/wallpaper/graphs/contributors).
 
 | [![Luxonauta](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) | [![helpotters](https://github.com/helpotters.png?size=100)](https://github.com/helpotters) | [![Brandon Reyes](https://github.com/brandon-irs.png?size=100)](https://github.com/brandon-irs) |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
